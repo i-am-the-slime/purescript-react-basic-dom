@@ -286,7 +286,8 @@
     "sandbox",
     "scrolling",
     "src",
-    "width"
+    "width",
+    "onLoad"
   ],
   "img": [
     "alt",
